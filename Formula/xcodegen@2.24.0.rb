@@ -1,4 +1,4 @@
-class Xcodegen < Formula
+class XcodegenAT2240 < Formula
   desc "Generate your Xcode project from a spec file and your folder structure"
   homepage "https://github.com/yonaskolb/XcodeGen"
   url "https://github.com/yonaskolb/XcodeGen/archive/2.24.0.tar.gz"

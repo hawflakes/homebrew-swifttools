@@ -1,4 +1,4 @@
-class Bartycrouch < Formula
+class BartycrouchAT470 < Formula
   desc "Incrementally update/translate your Strings files"
   homepage "https://github.com/Flinesoft/BartyCrouch"
   url "https://github.com/Flinesoft/BartyCrouch.git",

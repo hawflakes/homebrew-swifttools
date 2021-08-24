@@ -1,4 +1,4 @@
-class Swiftgen < Formula
+class SwiftgenAT640 < Formula
   desc "Swift code generator for assets, storyboards, Localizable.strings, …"
   homepage "https://github.com/SwiftGen/SwiftGen"
   url "https://github.com/SwiftGen/SwiftGen.git",
